@@ -33,7 +33,7 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 - [OpenRailwayMap](https://www.openrailwaymap.org/) - Map of the world's railway infrastructure.
 - [OpenSnowMap](http://www.opensnowmap.org/) - Worldwide ski map.
 - [OpenStreetMap](https://www.openstreetmap.org/) - OpenStreetMap is the free wiki world map.
-- [OpenTraffic](http://opentraffic.io/) - Global data platform to process anonymous positions of vehicles and smartphones.
+- [OpenTraffic](https://github.com/opentraffic/otv2-platform) - Global data platform to process anonymous positions of vehicles and smartphones.
 - [OpenMapTiles](https://openmaptiles.com/downloads/planet/) - OpenStreetMap, elevation, hillshading and satellite data as MBTiles.
 - [Natural Earth](http://www.naturalearthdata.com/) - Natural Earth is a public domain map dataset available at various scales.
 - [OpenAddresses](https://openaddresses.io/) - A free and open global address collection.
@@ -102,7 +102,7 @@ Awesome Spatial Data is a curated list of open, scientific and commercial spatia
 - [OpenTransportData](https://opentransportdata.swiss/en/) - Open Data from Swiss Transport Companies.
 - [OpenMobilityData](https://transitfeeds.com/news/open-mobility-data) - Real-time mobility information platform. 
 - [TransitLand](https://transit.land/) - A data service aggregating transit networks.
-- [Navitia.io](Navitia.io) - The open API for building cool stuff with transport data.
+- [Navitia.io](https://github.com/hove-io/navitia/) - The open API for building cool stuff with transport data.
 - [OurAirports](https://ourairports.com/data/) - Airports data.
 - [IATA](https://www.iata.org/en/publications/store/airline-coding-directory/) - Airline Coding Directory and Location Identifiers.
 
